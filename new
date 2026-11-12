@@ -1,0 +1,19 @@
+# Command line prompts
+
+1. pwd: print working directory
+1. ls: list
+1. cd: Change directory
+1. clear: Clears the screen
+1. mkdir: Make directory
+1. touch: to create files
+1. rm: To delete a file
+1. rem -rf: to delete a foldr and its content
+
+  # Git Commands
+  
+  1. git init: To initilaize
+  1. git status: To check the status of a repo
+  1. git add: to stage
+  1. git branch: to list all the branches
+  1. git checkout: to switch a branch
+  1. git checkout -b name of branch; to create a new branch
